@@ -1,6 +1,5 @@
 #title
 content
-<<<<<<< HEAD
 master, opentutorials
 #title
 content
